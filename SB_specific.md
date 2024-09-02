@@ -4,3 +4,5 @@ Here will be **Table of Contents** soon.
 ## Chapter 1
 ### Chapter 1.1
 ## Chapter2
+## Notices
+ [Link to repo](https://github.com/Azure/alz-terraform-accelerator.git).
