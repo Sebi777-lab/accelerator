@@ -7,6 +7,6 @@ Here will be **Table of Contents** soon.
 | features | Yes | No|
 |--------------|-----------|----------|
 Feature 1 | X |  |
-Feature 2 |   | X|
+Feature 2 | X | |
 ## Notices
  [Link to repo](https://github.com/Azure/alz-terraform-accelerator.git).
